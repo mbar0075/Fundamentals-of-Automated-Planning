@@ -1,0 +1,3 @@
+(slide-down tile-loc_5 t_8 tile-loc_8)
+(slide-left tile-loc_6 t_5 tile-loc_5)
+(slide-up tile-loc_9 t_6 tile-loc_6)
