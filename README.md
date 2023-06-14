@@ -55,4 +55,4 @@ The comparison between the domain-specific solver and the domain-independent pla
 
 
 ## Deliverables:
-The repository includes a Dynamic Sliding Puzzle Solver, utilising various different configurations<br />
+**The repository includes a Dynamic Sliding Puzzle Solver, utilising various different configurations** <br />
